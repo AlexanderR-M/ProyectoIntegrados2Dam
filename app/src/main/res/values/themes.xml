@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.AppLlaves" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#153E75</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>
