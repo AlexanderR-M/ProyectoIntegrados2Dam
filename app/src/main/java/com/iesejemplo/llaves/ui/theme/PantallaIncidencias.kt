@@ -250,7 +250,7 @@ fun IncidentsScreen(
             ) {
 
                 Text(
-                    text = "Enviar reporte",
+                    text = "Enviar Reporte",
                     fontSize = 19.sp,
                     fontWeight = FontWeight.Bold,
                     color = Texto
