@@ -260,7 +260,7 @@ fun IncidentsScreen(
     }
 }
 
-// VISTA PREVIA
+// VISTA
 @Preview(showBackground = true)
 @Composable
 fun PreviewIncidentsScreen() {
